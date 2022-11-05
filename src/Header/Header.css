@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+header {
+    background: var(--bg-color-1);
+    min-height: 10vh;
+    display: flex;
+    width: 100%;
+    background:#ccc;
+    position:fixed;
+  }
+header .logo {
+      flex: 3;
+      display: flex;
+      justify-content: center;
+      align-items:center;
+      font-size: 40px;
+      font-weight: 800;
+      color:rgb(0, 0, 0);
+      font-family: 'Courgette', cursive;
+      font-weight: 100;
+      font-style: italic;
+      color: rgb(172, 24, 172);
+  }
+  header .logo img {
+    width: 150px;
+    position: fixed;
+    margin-left: 100px;
+  }
+  .basket {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    cursor: pointer;
+  }
+
+  .basket .fa{
+    font-size: 25px;
+  }
+  .basket .quantity {
+    font-size: 18px;
+    position: absolute;
+    top: 20px;
+  }
+.mobile-menu {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 30px;
+    display: none;
+    cursor: pointer;
+  }
+.mobile-menu .menu-links{
+  background:#ccc;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  left: 0;
+  top: 10vh;
+  font-size: 20px;
+  opacity: 0.8;
+  display: none;
+}
+.mobile-menu .menu-links ul {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items:flex-start;
+  padding: 30px;
+  list-style: none;
+}
+.mobile-menu .menu-links ul li a {
+  color:black;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.mobile-menu .menu-links ul li a:hover{
+  color:purple
+}
+.active {
+  background:rgb(241, 155, 241);
+  padding: 10px 10px;
+}
+@media only screen and (max-width: 991px) {
+  .mobile-menu {
+    display: flex;
+  }
+  Header .logo {
+    flex: 1;
+   }
+   header .logo img {
+    display:none
+   }
+}
+
+  @media only screen and (max-width: 450px) {
+   Header .logo {
+    font-size: 30px;
+    flex: 1;
+   }
+ }
+

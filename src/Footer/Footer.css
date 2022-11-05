@@ -1,0 +1,24 @@
+.Footer {
+    height: 60px;
+    background:#ccc;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    gap: 10px;
+    letter-spacing: 1px;
+}
+
+.Footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.Footer a {
+    text-decoration: none;
+    color: rgb(179, 2, 2);
+}
+@media only screen and (max-width: 450px) {
+    .Footer p,.Footer a {
+        font-size: 14px;
+    }
+ }

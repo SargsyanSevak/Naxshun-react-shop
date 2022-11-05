@@ -1,0 +1,130 @@
+{
+    "goods": [
+      {
+        "id": 1,
+        "title": "Մատանի #001",
+        "price" : 200,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Fana/5x8/250/44718053_0.png",
+        "categoryId":1
+      },
+      {
+        "id": 2,
+        "title": "Մատանի #002",
+        "price" : 100,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Martin_Flyer/5x8/250/32802337_0.png",
+        "categoryId":1
+      },
+      {
+        "id": 3,
+        "title": "Մատանի #003",
+        "price" : 550,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Noam_Carver/5x8/250/44628943_0.png",
+        "categoryId":1
+      },
+      {
+        "id": 4,
+        "title": "Մատանի #004",
+        "price" : 250,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/verragio/5x8/250/17504294_0.png",
+        "categoryId":1
+      },
+      {
+        "id": 5,
+        "title": "Մատանի #005",
+        "price" : 500,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/ajaffe/5x8/250/20007796_0.png",
+        "categoryId":1
+      },
+      {
+        "id": 6,
+        "title": "Մատանի #006",
+        "price" : 600,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Martin_Flyer/5x8/250/32802658_0.png",
+        "categoryId":1
+      },
+      {
+        "id": 7,
+        "title": "Թևնոց #001",
+        "price" : 1100,
+        "img":"https://www.quenansjewelers.com/public/V4.0/brands/vahan/images/thumbnails/22578D06_small.png",
+        "categoryId":2
+      },
+      {
+        "id": 8,
+        "title": "Թևնոց #002",
+        "price" : 200,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/jewelry_designer_showcase/5x8/250/45215045_0.png",
+        "categoryId":2
+      },
+      {
+        "id": 9,
+        "title": "Թևնոց #003",
+        "price" : 180,
+        "img":"https://cdn.shopify.com/s/files/1/0518/8288/5293/products/35803460_0_580x.png?v=1612763887",
+        "categoryId":2
+      },
+      {
+        "id": 10,
+        "title": "Թևնոց #004",
+        "price" : 450,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/doves_jewelry/5x8/250/41303740_0.png",
+        "categoryId":2
+      },
+      {
+        "id": 11,
+        "title": "Թևնոց #005",
+        "price" : 350,
+        "img":"https://cdn.shopify.com/s/files/1/0015/7772/products/yellow-gold-vermeil-turquoise-sun-biography-bracelet1_480x480.png?v=1571438558",
+        "categoryId":2
+      },
+      {
+        "id": 12,
+        "title": "Թևնոց #006",
+        "price" : 700,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Chamilia/5x8/250/36300445_0.png",
+        "categoryId":2
+      },
+      {
+        "id": 13,
+        "title": "Վզնոց #001",
+        "price" : 1200,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Le_Vian/5x8/250/38901492_0.png",
+        "categoryId":3
+      },
+      {
+        "id": 14,
+        "title": "Վզնոց #002",
+        "price" : 1000,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/stuller/5x8/250/44697495_0.png",
+        "categoryId":3
+      },
+      {
+        "id": 15,
+        "title": "Վզնոց #003",
+        "price" : 800,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/shy_creations/5x8/250/45105960_0.png",
+        "categoryId":3
+      },
+      {
+        "id": 16,
+        "title": "Վզնոց #004",
+        "price" : 1500,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/iTacori/5x8/250/26509433_0.png",
+        "categoryId":3
+      },
+      {
+        "id": 17,
+        "title": "Վզնոց #005",
+        "price" : 2000,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Elle/5x8/250/35204355_0.png",
+        "categoryId":3
+      },
+      {
+        "id": 18,
+        "title": "Վզնոց #006",
+        "price" : 1400,
+        "img":"https://s3.amazonaws.com/ISHOWIMAGES/Elle/5x8/250/35204876_0.png",
+        "categoryId":3
+      }
+    ]
+  }
